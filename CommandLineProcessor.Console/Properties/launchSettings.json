@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CommandLineProcessor.ConsoleApp": {
+      "commandName": "Project",
+      "commandLineArgs": "-foo fooArg -bar 25 -foobar true -barfoo Mantis"
+    }
+  }
+}
